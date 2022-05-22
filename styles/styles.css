@@ -23,7 +23,7 @@ body {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  background-image: url("/images/pattern-background-mobile.svg");
+  background-image: url("../images/pattern-background-mobile.svg");
   background-repeat: no-repeat;
 }
 
@@ -185,7 +185,7 @@ body {
 
 @media screen and (min-width: 376px) {
   .container {
-    background-image: url("/images/pattern-background-desktop.svg");
+    background-image: url("../images/pattern-background-desktop.svg");
   }
   .container .card {
     width: 28.3rem;
